@@ -12,3 +12,5 @@ Chrystal, 1902.
 
 The font used is TeX Gyre Schola, formatting by me, Tommy M. McGuire
 using XeLaTeX.
+
+Print double-sided, one-page per side, turning on the long side.
